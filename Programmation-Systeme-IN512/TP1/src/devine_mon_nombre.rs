@@ -9,7 +9,12 @@
 
 // 3
 
-////////////////////
+/*  git remote add origin "lien vers depot git ou faire les commit"
+    git init (le dossier entier a commit)
+    git add . (tout add pour le commit)
+    git commit -m "nom du commit"
+    git push -u origin master (met a jour le github)
+ */
 
 
 //1
